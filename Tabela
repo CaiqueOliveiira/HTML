@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Aula 4
+        </title>
+        <meta charset="UTF-8">
+    </head>
+    <body>
+        <table bgcolor="lightblue" cellspacing="5" cellpadding="10" align="center" height="200" border="5" width="300"> 
+            <tr align="center">
+                <td colspan="3">ALUNOS</td>
+            </tr>
+            <tr>
+                <th>Sala</th>
+                <th bgcolor=#00BFFF align="center"> <font color="#0000FF">RA</font> <height="100" width="100" ></th>
+                <th bgcolor=#00BFFF align="center"> <font color="#0000FF">Nome</font></th>
+            </tr>
+            <tr>
+                <td rowspan="2">20N</td>
+                <td bgcolor=#00BFFF align="center"> <font color="#0000FF">123452023</font></td>
+                <td bgcolor=#00BFFF align="center"> <font color="#0000FF">Meire</font></td>
+            </tr>
+            <tr>
+                <td bgcolor=#00BFFF align="center"> <font color="#0000FF">124562022</font></td>
+                <td bgcolor=#00BFFF align="center"> <font color="#0000FF">Caique</font></td>
+            </tr>
+
+        </table>
+    </body>
+</html>
